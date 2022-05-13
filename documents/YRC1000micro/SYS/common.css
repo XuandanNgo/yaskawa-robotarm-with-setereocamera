@@ -1,0 +1,186 @@
+﻿#BGTABLE td {
+    background-color: #ffffff;
+    background-image: url("menuBG.jpg");
+}
+#tbl-bdr table,#tbl-bdr td,#tbl-bdr th {
+    background : none;
+    border-collapse: collapse;
+    border:1px solid #333;
+}
+#tbl-bdr td{
+    background-color: #e0ffe0;
+    text-align: center;
+}
+#tbl-bdr2 table,#tbl-bdr2 td {
+    background : none;
+    border-collapse: collapse;
+}
+#tbl-bdr2 td {
+    border:1px solid #333;
+    background-color: #ffffff;
+    text-align: center;
+}
+#tbl-bdr2 td.left {
+    border:1px solid #333;
+    background-color: #ffffff;
+    text-align: left;
+}
+#tbl-bdr2 a {
+        /* ブロックレベル要素化 */
+        display: block;
+        
+        /* サイズ指定 */
+        width: 100%;
+        height: 16px;
+        
+        /* 縦横中央揃え */
+        /*text-align: center;*/
+        
+        /* 色指定 */
+        color: #000000; 
+        background-color: #CCCCCC;
+        
+        /* その他 */
+        font-size: 14px;
+        text-decoration: none;
+}
+#tbl-bdr2 a:hover {
+        color: #000000;
+        background-color: #00FFFF;
+}
+#tbl-bdr2 a.l2 {
+        /* ブロックレベル要素化 */
+        display: block;
+        
+        /* サイズ指定 */
+        width: 100%;
+        height: 32px;
+        
+        /* 縦横中央揃え */
+        /*text-align: center;*/
+        
+        /* 色指定 */
+        color: #000000; 
+        background-color: #CCCCCC;
+        
+        /* その他 */
+        font-size: 14px;
+        text-decoration: none;
+}
+#tbl-bdr2 a.l2:hover {
+        color: #000000;
+        background-color: #00FFFF;
+}
+#tbl-bdr2 a.l3 {
+        /* ブロックレベル要素化 */
+        display: block;
+        
+        /* サイズ指定 */
+        width: 100%;
+        height: 48px;
+        
+        /* 縦横中央揃え */
+        /*text-align: center;*/
+        
+        /* 色指定 */
+        color: #000000; 
+        background-color: #CCCCCC;
+        
+        /* その他 */
+        font-size: 14px;
+        text-decoration: none;
+}
+#tbl-bdr2 a.l3:hover {
+        color: #000000;
+        background-color: #00FFFF;
+}
+#tbl-bdr2 a.l4 {
+        /* ブロックレベル要素化 */
+        display: block;
+        
+        /* サイズ指定 */
+        width: 100%;
+        height: 64px;
+        
+        /* 縦横中央揃え */
+        /*text-align: center;*/
+        
+        /* 色指定 */
+        color: #000000; 
+        background-color: #CCCCCC;
+        
+        /* その他 */
+        font-size: 14px;
+        text-decoration: none;
+}
+#tbl-bdr2 a.l4:hover {
+        color: #000000;
+        background-color: #00FFFF;
+}
+#tbl-bdr2 a.l5 {
+        /* ブロックレベル要素化 */
+        display: block;
+        
+        /* サイズ指定 */
+        width: 100%;
+        height: 80px;
+        
+        /* 縦横中央揃え */
+        /*text-align: center;*/
+        
+        /* 色指定 */
+        color: #000000; 
+        background-color: #CCCCCC;
+        
+        /* その他 */
+        font-size: 14px;
+        text-decoration: none;
+}
+#tbl-bdr2 a.l5:hover {
+        color: #000000;
+        background-color: #00FFFF;
+}
+
+#tbl-bdr3 table{
+    border-collapse: collapse;
+}
+#tbl-bdr3 td{
+    background : none;
+    background-color: #ffffff;
+}
+input {
+    WIDTH: 100%;
+    text-align: left;
+}
+
+#yskj {
+    background: url("img/yasHP_j_mo_e.jpg") no-repeat;
+}
+
+#yskj a {
+    display:inline-block;
+}
+
+#yskj a:hover {
+    background-color: transparent;
+}
+
+#yskj a:hover img{
+    visibility: hidden;
+}
+
+#yskje {
+    background: url("img/yasHP_e_mo.jpg") no-repeat;
+}
+
+#yskje a {
+    display:inline-block;
+}
+
+#yskje a:hover {
+    background-color: transparent;
+}
+
+#yskje a:hover img{
+    visibility: hidden;
+}

@@ -1,0 +1,3 @@
+[Autorun]
+open=rundll32.exe url.dll,FileProtocolHandler SelectLanguage.html
+icon=SYS\Icon1.ico
